@@ -1,6 +1,5 @@
 /******************************************/
 //      name: Alexander Jurcau             //
-//      Date: January 17th 2014            ///
 //      Description: A flight simulator.   //
 /******************************************/
 
